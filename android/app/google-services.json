@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "409920260995",
+    "project_id": "atlas-st",
+    "storage_bucket": "atlas-st.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:409920260995:android:3f13c620a84bd4569144b6",
+        "android_client_info": {
+          "package_name": "com.example.atlas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "409920260995-d58cdbuimvqvk5erdnhlsioqoq83kk3v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.atlas",
+            "certificate_hash": "090a71f89e23ccba41963a031a3aada0e7ddb5e9"
+          }
+        },
+        {
+          "client_id": "409920260995-9epou8fei99luj7e91str045an61j8sd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOiE0x1vfuCzdSKrI97KDZTZfDbWGeQaM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "409920260995-9epou8fei99luj7e91str045an61j8sd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
